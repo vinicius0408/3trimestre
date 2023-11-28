@@ -1,25 +1,24 @@
 body{
-    background-color:#33ff00
+    background-color: #33ff00;
+    }
+
+{
+    color: #33ff00;
+    font-size: 50xp;
+    text-align: center;
 }
 
-h1{
-    color:rgb(0, 0, 0)
-    font-size: 30px;
-    text-align: justify;
-}
-
-.texto {
-    color: #362FD9;
-    font-size:30px;
+p{
+    color: #000000;
+    font-size: 30xp;
     text-align: justify;
 }
 
 #imagem{
-    height: 150px;
-    width: 150px;
-    padding: 5px;
-    margin: 5px;
-    border: 2px groove #362FD9;
-    border-radius: 20px;
-
+    height: 150xp;
+    width:150xp;
+    padding: 5xp;
+    margin: 5xp;
+    border: 2xp groove #362FD9;
+    border-radius:20xp;
 }
