@@ -2,7 +2,7 @@ body{
     background-color: #33ff00;
     }
 
-{
+h1{
     color: #33ff00;
     font-size: 50xp;
     text-align: center;
